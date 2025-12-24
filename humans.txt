@@ -21,11 +21,11 @@
    Language:     Spanish / English
    Doctype:      HTML5
    Launched:     2011/01/10
-   Last update:  2025/11/17
-   Standards:    HTML5, CSS3, SVG
+   Last update:  2025/12/24
+   Standards:    HTML5, CSS3, UTF-8, SVG
    Philosophy:   KISS principle, Responsive
    Software:     Linux, Apache
-   Graphics:     Inkscape, Imagemagick
+   Graphics:     Inkscape, Imagemagick, EXIFtool
    Fonts:        monospace
 
 */
