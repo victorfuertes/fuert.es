@@ -1,0 +1,38 @@
+/*
+    ________                      ___
+   /  ______\   _  _____   _____ /  /_ _____  ______
+  /  /___/  /\ / \/ ___ \/ \___//  __// ___ \/ ____/\
+ /  __/\/  /_//  /  ____/  /\__/  /_ /  ____/___  /\/
+/__/\_\/\_______/\_____/__/ / \_____\\_____/_____/ /
+\__\/    \______\/\____\__\/   \_____\\____\_____\/
+
+*/
+/* TEAM * * * * * * * * * * * * * * * * * * * * * * *
+ 
+        Dev:     <fuertes@fuert.es>
+        T!Z:     Europe/Madrid (UTC+1)
+   Location:     Spain, Earth
+
+*/
+/* SITE * * * * * * * * * * * * * * * * * * * * * * *
+
+   Site Name:    Fuertes
+   Site URL:     https://fuert.es
+   Language:     Spanish / English
+   Doctype:      HTML5
+   Launched:     2011/01/10
+   Last update:  2025/11/17
+   Standards:    HTML5, CSS3, SVG
+   Philosophy:   KISS principle, Responsive
+   Software:     Linux, Apache
+   Graphics:     Inkscape, Imagemagick
+   Fonts:        monospace
+
+*/
+/* LICENSE:
+ * 
+ * PUBLIC DOMAIN
+ * 
+ * No lefts reversed but some rights reserved.
+ * 
+ */ 
