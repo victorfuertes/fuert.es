@@ -18,13 +18,13 @@
 
    Site Name:    Fuertes
    Site URL:     https://fuert.es
-   Language:     Spanish / English
+   Language:     English
    Doctype:      HTML5
-   Launched:     2011/01/10
-   Last update:  2025/12/24
+   Launched:     2008/01/10
+   Last update:  2025/12/29
    Standards:    HTML5, CSS3, UTF-8, SVG
    Philosophy:   KISS principle, Responsive
-   Software:     Linux, Apache
+   Software:     macOS, Linux, Apache
    Graphics:     Inkscape, Imagemagick, EXIFtool
    Fonts:        monospace
 
